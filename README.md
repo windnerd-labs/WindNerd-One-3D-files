@@ -11,8 +11,10 @@ This repository contains the 3D models for the [Windnerd One Kit](https://windne
 Can be opened with a slicer like Ultimate Cura or Bambu Studio.
 Check out the [printing guide](https://windnerd.net/docs/windnerd-one/3d-printing) 
 
-## FCstd - CAD
+## CAD (FCStd, FreeCAD)
 Can be opened and edited with FreeCAD, a free and open-source parametric CAD tool.
+
+![Image](images/windnerd-one-freecad-screenshot.png)
 
 © 2025 Windnerd.
 All files are openly licensed via [CC BY-SA 4.0] (https://creativecommons.org/licenses/by-sa/4.0/)
