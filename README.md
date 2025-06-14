@@ -1,6 +1,10 @@
+# WindNerd One WiFi Anemometer
+
 ![Image](images/freecad-windnerd-one-anemometer.png)
 
-# Windnerd One 3D files
+WindNerd is an open-source, DIY anemometer project based on the WindNerd One—a fully 3D-printable wind sensor kit that assembles a Wi-Fi–enabled station to monitor real-time wind speed and direction without relying on centralized cloud services. The device includes comprehensive documentation for 3D printing, electronics setup, power options (including solar autonomy), Wi‑Fi configuration, installation, and local or remote data management via its web interface, MQTT, or integration with platforms like Windguru or Windy. Users can log into windnerd.net to visualize and share live and historic wind data from community stations around the world.
+
+## Windnerd One 3D files
 This repository contains the 3D models for the [Windnerd One Kit](https://windnerd.net/en/shop), a connected wind measurement device you can print and customize.
 
 ## STL - 3D printing
