@@ -1,4 +1,4 @@
-# WindNerd One WiFi Anemometer
+# WindNerd One: WiFi Anemometer
 
 ![Image](images/windnerd-one-freecad-screenshot-transparent.png)
 
