@@ -17,7 +17,7 @@ The electronics and additional hardware are [**available as a kit**](https://win
 
 ## STL - 3D printing
 Can be opened with a slicer like Ultimate Cura or Bambu Studio.
-Check out the [printing guide](https://windnerd.net/docs/windnerd-one/3d-printing) 
+Check out the [printing guide](https://windnerd.net/docs/anemometer/3d-printing) 
 
 ![Image](images/windnerd-one-all-stl-preview.jpg)
 
